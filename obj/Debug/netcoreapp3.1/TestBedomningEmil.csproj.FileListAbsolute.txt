@@ -1,0 +1,13 @@
+D:\Programming\TestBedomningEmil\bin\Debug\netcoreapp3.1\TestBedomningEmil.exe
+D:\Programming\TestBedomningEmil\bin\Debug\netcoreapp3.1\TestBedomningEmil.deps.json
+D:\Programming\TestBedomningEmil\bin\Debug\netcoreapp3.1\TestBedomningEmil.runtimeconfig.json
+D:\Programming\TestBedomningEmil\bin\Debug\netcoreapp3.1\TestBedomningEmil.runtimeconfig.dev.json
+D:\Programming\TestBedomningEmil\bin\Debug\netcoreapp3.1\TestBedomningEmil.dll
+D:\Programming\TestBedomningEmil\bin\Debug\netcoreapp3.1\TestBedomningEmil.pdb
+D:\Programming\TestBedomningEmil\obj\Debug\netcoreapp3.1\TestBedomningEmil.csprojAssemblyReference.cache
+D:\Programming\TestBedomningEmil\obj\Debug\netcoreapp3.1\TestBedomningEmil.AssemblyInfoInputs.cache
+D:\Programming\TestBedomningEmil\obj\Debug\netcoreapp3.1\TestBedomningEmil.AssemblyInfo.cs
+D:\Programming\TestBedomningEmil\obj\Debug\netcoreapp3.1\TestBedomningEmil.csproj.CoreCompileInputs.cache
+D:\Programming\TestBedomningEmil\obj\Debug\netcoreapp3.1\TestBedomningEmil.dll
+D:\Programming\TestBedomningEmil\obj\Debug\netcoreapp3.1\TestBedomningEmil.pdb
+D:\Programming\TestBedomningEmil\obj\Debug\netcoreapp3.1\TestBedomningEmil.genruntimeconfig.cache
